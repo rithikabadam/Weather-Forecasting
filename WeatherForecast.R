@@ -1,9 +1,9 @@
 #Setting up the directory
-setwd("C:/Users/DELL/OneDrive/Desktop/datasets")
+setwd("C:/Users/DELL/OneDrive/Desktop")
 getwd()
 
 #reading the data
-weather <- read.csv(file = "Austria.csv")
+weather <- read.csv(file = "dubai.csv")
 attach(weather)
 datetime
 class(datetime)
