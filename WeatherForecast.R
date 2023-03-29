@@ -1,5 +1,5 @@
 #Setting up the directory
-setwd("C:/Users/projectX/OneDrive/Desktop/datasets")
+setwd("C:/Users/DELL/OneDrive/Desktop/datasets")
 getwd()
 
 #reading the data
